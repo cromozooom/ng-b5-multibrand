@@ -1,5 +1,8 @@
-# To start
+# NG-B5 Multi Brand
+## How:
+Angular is compiling the scss and `cpx` to copy the necessary files for each brand
 
+## Working:
 1. Open terminal and run `npm i`
 2. Run one of these:
    - for build:
